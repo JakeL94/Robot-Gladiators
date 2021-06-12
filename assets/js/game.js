@@ -130,7 +130,7 @@ var startGame = function() {
       break;
     }
   }
-  endgame();
+  endGame();
 };
 
 var endGame = function() {
